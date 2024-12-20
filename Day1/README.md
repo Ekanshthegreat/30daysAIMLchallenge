@@ -26,3 +26,13 @@ starting with ELIZA model...didnt have much progress until google released in 20
 
 
 ![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/llms.png)
+
+
+How do LLM's work: Tokenization -> then vector embeddings -> then placed in vector databases (which are optimized for retrieval of vectors)
+so now they can see which words are related to other words based on their embeddings. 
+-> Transformations
+
+
+data pre processing before feeding in and training. nvidia building hardware for these
+
+RLHF - reinforcement learning human feedback
