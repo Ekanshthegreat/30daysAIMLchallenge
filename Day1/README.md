@@ -58,3 +58,29 @@ word embedding very important for nlp - for text classification - spam detection
 transformers use contextual based embedding - better for NLP tasks
 ![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/day1ibm3.png)
 Embedding is the process of creating vectors using deep learning. An "embedding" is the output of this process — in other words, the vector that is created by a deep learning model for the purpose of similarity searches by that model.
+
+A vector database determines what other data (represented as vectors) is near your input query. This allows you to build different use-cases on top of a vector database, including:
+
+Semantic search, used to return results similar to the input of the query.
+Classification, used to return the grouping (or groupings) closest to the input query.
+Recommendation engines, used to return content similar to the input based on different criteria (for example previous product sales, or user history).
+Anomaly detection, used to identify whether specific data points are similar to existing data, or different.
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/4.png)
+
+Was supposed to continue reading this but got confused about how an RAG works and learnt that it queries a database or some knowledge source and utilizes that information parses it to an LLM and then gets the resposne. 
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/rag.png)
+
+
+The step-by-step workflow resembles the below:
+
+A developer converts their existing dataset (documentation, images, logs stored in R2) into a set of vector embeddings (a one-way representation) by passing them through a machine learning model that is trained for that data type.
+The output embeddings are inserted into a Vectorize database index.
+A search query, classification request or anomaly detection query is also passed through the same ML model, returning a vector embedding representation of the query.
+Vectorize is queried with this embedding, and returns a set of the most similar vector embeddings to the provided query.
+The returned embeddings are used to retrieve the original source objects from dedicated storage (for example, R2, KV, and D1) and returned back to the user.
+
+also learnt why some metric distance types are better optimizaed for certain types eg words retrieval vs images
+
+
+#############################################################################
+
