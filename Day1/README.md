@@ -53,3 +53,8 @@ Learnt about the types of ML models, types of training parameters and how to use
 Also learned what all to keep in mind when training the model, and how splitting and shuffling is important
 
 
+
+word embedding very important for nlp - for text classification - spam detection etc
+transformers use contextual based embedding - better for NLP tasks
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/day1ibm3.png)
+Embedding is the process of creating vectors using deep learning. An "embedding" is the output of this process — in other words, the vector that is created by a deep learning model for the purpose of similarity searches by that model.
