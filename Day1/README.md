@@ -1,0 +1,1 @@
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/day1ibm.png)
