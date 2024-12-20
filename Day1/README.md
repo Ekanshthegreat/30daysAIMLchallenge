@@ -36,3 +36,20 @@ so now they can see which words are related to other words based on their embedd
 data pre processing before feeding in and training. nvidia building hardware for these
 
 RLHF - reinforcement learning human feedback
+
+Finetuning - take raw models and then finetune for better usecases
+
+
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/cloudflare.png)
+
+Learnt how inference is the AI model in action.
+
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/cloudflare2.png)
+Learnt about the types of ML models, types of training parameters and how to use them: Amazon ML model
+
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/domino.png)
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/aws.png)
+
+Also learned what all to keep in mind when training the model, and how splitting and shuffling is important
+
+
