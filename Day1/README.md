@@ -20,3 +20,9 @@ Computer vision:  technology that allows systems to extract, analyze, and compre
 ![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/day1ibm2.png)
 
 GPT: generative Pre Trained Transformed is LargeLanguageModel
+
+Learnt some fun stuff about the history of LLM's
+starting with ELIZA model...didnt have much progress until google released in 2017 a research paper on Transformers architecture which allowed GPT 1 to be built with high number of parameters
+
+
+![Screenshot](https://github.com/Ekanshthegreat/30daysAIMLchallenge/raw/main/Screenshots/llms.png)
