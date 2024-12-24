@@ -84,3 +84,13 @@ also learnt why some metric distance types are better optimizaed for certain typ
 
 #############################################################################
 
+
+Now the fun stuff - going to develop a custom AI agent - watching this - https://www.youtube.com/watch?v=MOyl58VF2ak
+
+AI agent developer fine tune to use in production
+
+AI automations cant handle edge cases
+AI based agents automation - grant agent automonmy to handle edge cases - agent retreieves context only when it is needed
+
+
+
